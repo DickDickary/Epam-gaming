@@ -3,7 +3,11 @@ import Algorit.Simple1_2;
 import Algorit.Simple1_3;
 import Algorit.Simple1_4;
 import Algorit.Simple3_1;
+import Algorit.Simple3_3;
+import Algorit.Simple3_4;
+import Algorit.Simple3_5;
 import Basics.*;
+import StringAndBasicsOfTextProcessing.Sample1_1;
 
 import java.io.IOException;
 
@@ -57,7 +61,16 @@ public class main {
 //        simple31.go();
 //        Simple3_2 simple32 = new Simple3_2();
 //        simple32.go();
-
+//        Simple3_3 simple33 = new Simple3_3();
+//        simple33.go();
+//        Simple3_4 simple34 = new Simple3_4();
+//        simple34.go();
+//        Simple3_5 simple35 = new Simple3_5();
+//        simple35.go();
+//        Simple3_6 simple36 = new Simple3_6();
+//        simple36.go();
+        Sample1_1 sample11 = new Sample1_1();
+        sample11.go();
 
                 }
 }
