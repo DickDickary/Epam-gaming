@@ -21,15 +21,19 @@ public class Sample1_1 {
             for (int j = 0 ; j < arrayList.get(i).length();j++){
                 arrayList2.add(arrayList.get(i).charAt(j));
             }
-            for (int j = 0; j < arrayList2.size();j++) {
+            int len = arrayList2.size();
+            for (int j = 0; j < len;j++) {
                 if (arrayList2.get(j).equals(Character.toUpperCase(arrayList2.get(j)))) {
                     Character.toLowerCase(arrayList2.get(j));
                     arrayList2.add(j,'_');
-                    ++j;
-                    System.out.println(arrayList2.toString());
                 }
+
             }
-            arrayList.add(String.valueOf(arrayList2));
+
+            for (int g = 0;g < arrayList2.size();g++){
+
+            }
+            System.out.println(arrayList.toString());
 
             }
         System.out.println(arrayList.toString());

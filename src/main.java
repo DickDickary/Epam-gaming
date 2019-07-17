@@ -1,13 +1,6 @@
-import Algorit.*;
-import Algorit.Simple1_2;
-import Algorit.Simple1_3;
-import Algorit.Simple1_4;
-import Algorit.Simple3_1;
-import Algorit.Simple3_3;
-import Algorit.Simple3_4;
-import Algorit.Simple3_5;
-import Basics.*;
-import StringAndBasicsOfTextProcessing.Sample1_1;
+import StringAndBasicsOfTextProcessing.Sample2_3;
+import StringAndBasicsOfTextProcessing.Sample2_5;
+import StringAndBasicsOfTextProcessing.Sample2_6;
 
 import java.io.IOException;
 
@@ -69,8 +62,16 @@ public class main {
 //        simple35.go();
 //        Simple3_6 simple36 = new Simple3_6();
 //        simple36.go();
-        Sample1_1 sample11 = new Sample1_1();
-        sample11.go();
+//        Sample1_1 sample11 = new Sample1_1();
+//        sample11.go();
+//        Sample2_1 sample21 = new Sample2_1();
+//        sample21.go();
+//        Sample2_2 sample22 = new Sample2_2();
+//        sample22.go();
+//        Sample2_5 sample25 = new Sample2_5();
+//        sample25.go();
+        Sample2_6 sample26= new Sample2_6();
+        sample26.go();
 
                 }
 }
