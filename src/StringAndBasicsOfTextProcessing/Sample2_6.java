@@ -7,10 +7,15 @@ public class Sample2_6 {
 
 
         String s = "Как вы объединяете символы в javaеSystem.out";
+        String a = null;
+        String word = " ";
         int count = s.length();
         for(int i = 0 ; i < count;i++){
-            s.indexOf(i) = s.indexOf(i) + s.indexOf(i);
+
+            a = new StringBuilder().append(s.charAt(i)).toString()+new StringBuilder().append(s.charAt(i)).toString();
+word += a;
         }
+        System.out.println(word);
 
     }
 }

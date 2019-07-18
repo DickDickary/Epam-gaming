@@ -1,6 +1,9 @@
+
+import ProgrammingWithClasses.*;
 import StringAndBasicsOfTextProcessing.Sample2_3;
 import StringAndBasicsOfTextProcessing.Sample2_5;
 import StringAndBasicsOfTextProcessing.Sample2_6;
+import StringAndBasicsOfTextProcessing.Sample2_7;
 
 import java.io.IOException;
 
@@ -70,8 +73,24 @@ public class main {
 //        sample22.go();
 //        Sample2_5 sample25 = new Sample2_5();
 //        sample25.go();
-        Sample2_6 sample26= new Sample2_6();
-        sample26.go();
+//       Sample2_6 sample26= new Sample2_6();
+//      sample26.go();
+        //исправить      Sample2_7 sample27 = new Sample2_7();
+        //исправить     sample27.go();
+//        Test1 test1 = new Test1();
+//        test1.setAn(3);
+//        test1.setBa(4);
+//        test1.max();
+//        test1.print();
+//        test1.sum();
+//        Test2 test2 = new Test2();
+//        Student test3 = new Student();
+//
+//       test3.otlichniki();
+//        Menu menu = new Menu();
+//        menu.info();
+//        menu.sort();
+//   доделать     menu.sortPoPunktu();
 
                 }
 }
