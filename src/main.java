@@ -90,7 +90,19 @@ public class main {
 //        Menu menu = new Menu();
 //        menu.info();
 //        menu.sort();
-//   доделать     menu.sortPoPunktu();
+//        menu.sortPoPunktu();
+//Score score = new Score(4);
+//score.minusTen(2);
+//        System.out.println(score.getScore());
+//Time time = new Time();
+//time.getCalendar();
+//Triangle triangle = new Triangle();
+//triangle.creatTriangle(3,6,140);
+//triangle.tochkaPeresechMed(); //доделать
+//Customers customers = new Customers();
+//customers.sortName();
+//customers.interval(3,6);
+
 
                 }
 }

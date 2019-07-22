@@ -4,7 +4,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.Collections;
+import java.util.Comparator;
 
 public class Menu {
      ArrayList<Train> array = new ArrayList<>(5);
@@ -34,5 +36,16 @@ public class Menu {
      }
 
      public void sortPoPunktu() {
+
+        Collections.sort(array, new Comparator<Train>() {
+            @Override
+            public int compare(Train o1, Train o2) {
+                return o1.goTo.compareTo(o2.goTo);
+            }
+        }
+        );
+         }
+
+
      }
- }
+
