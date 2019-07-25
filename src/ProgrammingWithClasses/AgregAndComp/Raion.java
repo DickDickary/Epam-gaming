@@ -1,10 +1,32 @@
 package ProgrammingWithClasses.AgregAndComp;
 
-public class Raion extends Oblast{
+import java.util.ArrayList;
+
+public class Raion {
+
     private String name;
-    private  Gorod gorod1;
-    private  Gorod gorod2;
-    private  Gorod gorod3;
+    private int squr;
+
+    public int getSqur() {
+        return squr;
+    }
+
+    public Raion(String name, int squr) {
+        this.name = name;
+        this.squr = squr;
+
+    }
+
+    ArrayList<Gorod> gorods = new ArrayList<>();
+
+    public void addGorod(Gorod gorod){
+
+        gorods.add(gorod);
+    }
+    public void countGorods(){
+
+        System.out.println(gorods.size());
+    }
 
     public String getName() {
         return name;
