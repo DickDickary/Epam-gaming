@@ -21,13 +21,13 @@ public class main {
 //        simple2_1.go();
 //Simple2_2 simple2_2 = new Simple2_2(2,2,2,1);
 //        simple2_2.go();
-////Basics.Simple2_3 simple2_3 = new Basics.Simple2_3();
+////Basics.Vetvl.Simple2_3 simple2_3 = new Basics.Vetvl.Simple2_3();
 ////        simple2_3.go();
 //Simple2_4 simple2_4  = new Simple2_4(3,2,6,3,1);
 //        simple2_4.go();
 //Simple2_5 simple2_5 = new Simple2_5(4);
 //          simple2_5.go();
-////Basics.Simple3_1 simple3_1 = new Basics.Simple3_1();
+////Basics.ForWhile.Simple3_1 simple3_1 = new Basics.ForWhile.Simple3_1();
 ////          simple3_1.go();
 //Simple3_3 simple3_3 = new Simple3_3();
 //          simple3_3.go();
@@ -35,7 +35,7 @@ public class main {
 //          simple3_4.go();
 //Simple3_8 simple3_8 = new Simple3_8();
 //          simple3_8.go();
-// Algorit.Simple21_1 simple1_1 = new Algorit.Simple1_1(2,4,2,5,7);
+// Algorit.Simple21_1 simple1_1 = new Algorit.ArrayOne.Simple1_1(2,4,2,5,7);
 //        simple1_1.go();
 // Simple1_2 simple21_2 = new Simple1_2(1,2,3,4,5,6);
 //        simple21_2.go();
