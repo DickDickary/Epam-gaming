@@ -10,25 +10,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BasicsOfOOP/Sample5/Candy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BasicsOfOOP/Sample5/PresentCreator.java">
+        <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/Libr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+            <state relative-caret-position="-1406">
+              <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -37,28 +27,58 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BasicsOfOOP/Sample5/Run.java">
+        <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/RunApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            <state relative-caret-position="170">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BasicsOfOOP/Sample5/Present.java">
+        <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/resources/Users.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="17">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BasicsOfOOP/Sample5/Pack.java">
+        <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/AuthenticationControl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="50">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/resources/Admins.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/role/Admin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -82,15 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Menu.java" />
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Score.java" />
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Time.java" />
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Triangle.java" />
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Customer.java" />
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Customers.java" />
-        <option value="$PROJECT_DIR$/src/main.java" />
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Book.java" />
-        <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Libr.java" />
         <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Day.java" />
         <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/Airline.java" />
         <option value="$PROJECT_DIR$/src/ProgrammingWithClasses/AirPort.java" />
@@ -133,10 +144,19 @@
         <option value="$PROJECT_DIR$/src/BasicsOfOOP/Sample5/Candy.java" />
         <option value="$PROJECT_DIR$/src/BasicsOfOOP/Sample5/Pack.java" />
         <option value="$PROJECT_DIR$/src/BasicsOfOOP/Sample5/PresentCreator.java" />
+        <option value="$PROJECT_DIR$/src/Task6/Libr.java" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/role/Admin.java" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/authenticationControl.java" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/RunApp.java" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/resources/Admins.txt" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/resources/Users.txt" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/AuthenticationControl.java" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/Book.java" />
+        <option value="$PROJECT_DIR$/src/Task6/Sample1/Libr.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -147,6 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -160,11 +181,31 @@
               <item name="Epam-gaming" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Epam-gaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam-gaming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam-gaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam-gaming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task6" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Epam-gaming" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Epam-gaming" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Task6" type="462c0819:PsiDirectoryNode" />
+              <item name="Sample1" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,7 +227,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Run (1)">
+  <component name="RunManager" selected="Application.RunApp">
     <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BasicsOfOOP.Sample5.Run" />
       <module name="Epam gaming" />
@@ -208,6 +249,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="BasicsOfOOP.Sample4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task6.Sample1.RunApp" />
+      <module name="Epam gaming" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Task6.Sample1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,6 +302,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunApp" />
         <item itemvalue="Application.Run (1)" />
         <item itemvalue="Application.Run" />
         <item itemvalue="Application.main" />
@@ -264,17 +320,19 @@
       <option name="presentableId" value="Default" />
       <updated>1562053936294</updated>
       <workItem from="1567684203687" duration="11941000" />
-      <workItem from="1567763738628" duration="601000" />
+      <workItem from="1567763738628" duration="4030000" />
+      <workItem from="1568024831829" duration="10620000" />
+      <workItem from="1568108638752" duration="6794000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12542000" />
+    <option name="totallyTimeSpent" value="33385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18708971" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09541578" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -282,9 +340,9 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32908705" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3391685" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39596602" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32719395" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3347779" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -304,6 +362,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
       <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,85 +386,36 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ProgrammingWithClasses/AggregationAndComposition/Libr.java</url>
           <line>9</line>
-          <properties class="ProgrammingWithClasses.Libr" method="lookAuthor">
+          <properties class="ProgrammingWithClasses.AggregationAndComposition.Libr" method="lookAuthor">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="21" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task6/Sample1/Libr.java</url>
+          <line>128</line>
+          <properties class="Task6.Sample1.Libr" method="searchBook">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Task6/Sample1/AuthenticationControl.java</url>
+          <line>14</line>
+          <properties class="Task6.Sample1.AuthenticationControl" method="Authentic">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Epam_gaming$RunApp.ic" NAME="RunApp Coverage Results" MODIFIED="1568042022805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Task6.Sample1.*</FILTER>
+    </SUITE>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArrayOne/Simple1_8.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArrayOne/Simple1_9.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArrayOne/Simple1_10.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArrayArrays/Simple2_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArraySort/Simple3_1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArraySort/Simple3_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArraySort/Simple3_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArraySort/Simple3_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArraySort/Simple3_6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Algorit/ArraySort/Simple3_7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Algorit/ArraySort/Simple3_8.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -689,6 +699,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/role/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/BasicsOfOOP/Sample5/Present.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -707,6 +724,70 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="61" selection-start-line="21" selection-start-column="61" selection-end-line="21" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/usr" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/resources/Admins.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/role/Admin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/resources/Users.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="23" column="26" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/RunApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/AuthenticationControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task6/Sample1/Libr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1406">
+          <caret line="51" column="22" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
